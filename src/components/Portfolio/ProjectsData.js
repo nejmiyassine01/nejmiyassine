@@ -1,12 +1,12 @@
-import DisneyClone from '../../assets/projects/disney-clone.png';
-import CrwnClothing from '../../assets/projects/crwn-clothing.png';
-import MusicApp from '../../assets/projects/music-app.png';
-import ArchStudio from '../../assets/projects/arch-studio.png';
-import Photosnap from '../../assets/projects/photosnap.jpg';
-import Natours from '../../assets/projects/natours.png';
-import Trillo from '../../assets/projects/trillo.jpg';
-import Nexter from '../../assets/projects/nexter.png';
-import BeatBox from '../../assets/projects/beat-box.png';
+import DisneyClone from '../../assets/disney-clone.png';
+import CrwnClothing from '../../assets/crwn-clothing.png';
+import MusicApp from '../../assets/music-app.png';
+import ArchStudio from '../../assets/arch-studio.png';
+import Photosnap from '../../assets/photosnap.jpg';
+import Natours from '../../assets/natours.png';
+import Trillo from '../../assets/trillo.png';
+import Nexter from '../../assets/nexter.png';
+import BeatBox from '../../assets/beat-box.png';
 
 const ProjectsData = [
   {
